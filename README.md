@@ -1,6 +1,7 @@
-# GadgetHaven E-commerce Platform
+# Gadget Heaven
 
 [**Live Website Link**](https://gadget-heaven-hub.netlify.app/) 
+
 [**Requirement Document Link**](./Batch-10_Assignment-08.pdf)
 
 ## React Fundamental Concepts Used
@@ -17,7 +18,6 @@
 
 ## Data Handling and Management
 - Data is managed and persisted using **LocalStorage** for persistent data even after page reloads.
-- **Context API** is used for state management across the app (if applicable).
 
 
 ## Features of the Website/Project
