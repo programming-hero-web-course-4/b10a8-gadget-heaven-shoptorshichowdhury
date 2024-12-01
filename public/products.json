@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1",
+    "product_title": "Dell Inspiration 15",
+    "product_image": "https://i.ibb.co.com/C97rP0x/Dell-Inspiron-15.jpg",
+    "category": "Laptop",
+    "price": 750,
+    "description": "A reliable and powerful laptop for everyday use.",
+    "specification": [
+      "15.6-inch display",
+      "Intel Core i5",
+      "8GB RAM",
+      "512GB SSD",
+      "Windows 11"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": "2",
+    "product_title": "HP Pavilion x360",
+    "product_image": "https://i.ibb.co.com/rpv8KdY/HP-Pavilion-x360.jpg",
+    "category": "Laptop",
+    "price": 820,
+    "description": "A versatile convertible laptop with touchscreen capability.",
+    "specification": [
+      "14-inch touchscreen",
+      "Intel Core i7",
+      "16GB RAM",
+      "1TB SSD",
+      "Windows 11"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": "3",
+    "product_title": "Lenovo ThinkPad E14",
+    "product_image": "https://i.ibb.co.com/ZKX4kwH/Lenovo-Think-Pad-E14.jpg",
+    "category": "Laptop",
+    "price": 670,
+    "description": "Durable and performance-oriented business laptop.",
+    "specification": [
+      "14-inch display",
+      "AMD Ryzen 5",
+      "8GB RAM",
+      "256GB SSD",
+      "Windows 10 Pro"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": "4",
+    "product_title": "Asus ROG Zephyrus G14",
+    "product_image": "https://i.ibb.co.com/h9fbfWh/Asus-ROG-Zephyrus-G14.jpg",
+    "category": "Laptop",
+    "price": 1350,
+    "description": "High-performance gaming laptop with excellent portability.",
+    "specification": [
+      "14-inch display",
+      "AMD Ryzen 9",
+      "16GB RAM",
+      "1TB SSD",
+      "NVIDIA GeForce RTX 3060"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "5",
+    "product_title": "Apple MacBook Air M1",
+    "product_image": "https://i.ibb.co.com/Qf5f3Ys/Apple-Mac-Book-Air-M1.jpg",
+    "category": "Laptop",
+    "price": 999,
+    "description": "Ultra-thin and lightweight laptop with the powerful M1 chip.",
+    "specification": [
+      "13.3-inch Retina display",
+      "Apple M1 chip",
+      "8GB RAM",
+      "256GB SSD",
+      "macOS"
+    ],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "id": "6",
+    "product_title": "Acer Aspire 5",
+    "product_image": "https://i.ibb.co.com/8r7qYFF/Acer-Aspire-5.jpg",
+    "category": "Laptop",
+    "price": 550,
+    "description": "Affordable laptop with solid performance for students.",
+    "specification": [
+      "15.6-inch display",
+      "Intel Core i3",
+      "4GB RAM",
+      "128GB SSD",
+      "Windows 10"
+    ],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "id": "7",
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/nsYFLQm/i-Phone-14-Pro.jpg",
+    "category": "Phone",
+    "price": 1099,
+    "description": "Apple's flagship smartphone with advanced camera technology.",
+    "specification": [
+      "6.1-inch OLED display",
+      "A16 Bionic chip",
+      "128GB storage",
+      "iOS 16",
+      "Triple-camera system"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": "8",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.ibb.co.com/8sV1Zh9/Samsung-Galaxy-S23-Ultra.jpg",
+    "category": "Phone",
+    "price": 1199,
+    "description": "Flagship phone with exceptional camera and performance.",
+    "specification": [
+      "6.8-inch AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "256GB storage",
+      "Android 13",
+      "Quad-camera setup"
+    ],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "id": "9",
+    "product_title": "JBL Flip 6 Speaker",
+    "product_image": "https://i.ibb.co.com/d5JbVfj/JBL-Flip-6-Speake.jpg",
+    "category": "Accessory",
+    "price": 130,
+    "description": "Portable Bluetooth speaker with powerful sound.",
+    "specification": [
+      "Waterproof design",
+      "Bluetooth 5.1",
+      "12 hours of playtime"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": "10",
+    "product_title": "Apple AirPods Pro",
+    "product_image": "https://i.ibb.co.com/c2MRCHc/Apple-Air-Pods-Pro-2nd-Gen.jpg",
+    "category": "Accessory",
+    "price": 250,
+    "description": "Noise-cancelling earbuds with improved sound quality.",
+    "specification": [
+      "Active noise cancellation",
+      "MagSafe charging case",
+      "Adaptive EQ"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "11",
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://i.ibb.co.com/N11QV81/Apple-Watch-Series-9.jpg",
+    "category": "Smart Watch",
+    "price": 400,
+    "description": "Advanced smartwatch with health tracking and always-on display.",
+    "specification": [
+      "GPS + Cellular",
+      "Heart rate monitoring",
+      "Water resistant up to 50 meters",
+      "watchOS 10"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": "12",
+    "product_title": "Samsung Galaxy Watch 5",
+    "product_image": "https://i.ibb.co.com/2dKmNYY/Samsung-Galaxy-Watch-5.jpg",
+    "category": "Smart Watch",
+    "price": 320,
+    "description": "Stylish smartwatch with comprehensive health monitoring.",
+    "specification": [
+      "1.4-inch Super AMOLED display",
+      "GPS",
+      "Advanced sleep tracking",
+      "Wear OS"
+    ],
+    "availability": false,
+    "rating": 4.6
+  }
+]

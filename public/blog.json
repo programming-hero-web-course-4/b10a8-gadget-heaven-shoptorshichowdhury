@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "date": "20 Jun",
+        "title": "The Latest Innovations: Top Gadgets to Watch in 2024",
+        "description": "This month has been bustling with exciting developments in the world of gadgets. From groundbreaking new devices to innovative...",
+        "image": "https://i.ibb.co.com/QQjP7ng/allgadgets.jpg",
+        "link": "https://www.bestproducts.com/tech/g864/cool-tech-products-you-need/"
+    },
+    {
+        "id": 2,
+        "date": "19 Jun",
+        "title": "Exploring Drones: A New Era in Tech",
+        "description": "Drones have taken the tech world by storm. Discover how they are changing industries from delivery to photography...",
+        "image": "https://i.ibb.co.com/TcFSxnm/drone.jpg",
+        "link": "https://infinidome.com/2024-the-year-of-the-drone-exploring-the-growth-in-uav-and-autonomous-technologies/"
+    },
+    {
+        "id": 3,
+        "date": "18 Jun",
+        "title": "Smartphones in 2024: What to Expect",
+        "description": "As smartphones evolve, here's what you can look forward to in 2024. From foldable screens to enhanced AI integration...",
+        "image": "https://i.ibb.co.com/F6Br7rW/mobile.jpg",
+        "link": "https://www.techadvisor.com/article/724318/best-smartphone.html"
+    },
+    {
+        "id": 4,
+        "date": "17 Jun",
+        "title": "Tech for Fitness: Best Gadgets to Boost Your Workout",
+        "description": "Stay fit with the latest fitness tech gadgets. Here are the top devices to keep track of your health and progress...",
+        "image": "https://i.ibb.co.com/Rvx6B30/fitness.jpg",
+        "link": "https://www.slashgear.com/1451988/fitness-gadgets-workout-routine/"
+    },
+    {
+        "id": 5,
+        "date": "16 Jun",
+        "title": "Smart Home Devices: Making Your Life Easier",
+        "description": "Turn your home into a smart home with the latest gadgets. Explore devices that improve comfort, security, and energy efficiency...",
+        "image": "https://i.ibb.co.com/cvYk30k/smarthome.jpg",
+        "link": "https://www.pcmag.com/picks/the-best-smart-home-devices"
+    },
+    {
+        "id": 6,
+        "date": "15 Jun",
+        "title": "Best Wireless Earbuds for 2024",
+        "description": "Wireless earbuds are a must-have for tech enthusiasts. We've rounded up the best options to consider this year...",
+        "image": "https://i.ibb.co.com/L0pcnPX/airpods.jpg",
+        "link": "https://www.cnet.com/tech/mobile/best-wireless-earbuds/"
+    },
+    {
+        "id": 7,
+        "date": "14 Jun",
+        "title": "The Future of Laptops: What's Next?",
+        "description": "Laptops are constantly evolving. Find out what new features and upgrades we can expect from laptops in the near future...",
+        "image": "https://i.ibb.co.com/LRY4sjP/laptop.jpg",
+        "link": "https://www.laptopmag.com/features/the-future-of-laptops"
+    },
+    {
+        "id": 8,
+        "date": "13 Jun",
+        "title": "Top 5 Gaming Consoles for 2024",
+        "description": "Gaming consoles are pushing the boundaries of entertainment. Here are the top consoles to consider this year...",
+        "image": "https://i.ibb.co.com/5KPsq3T/gaming.jpg",
+        "link": "https://prestmit.io/blog/5-best-gaming-consoles-all-gamers-year"
+    },
+    {
+        "id": 9,
+        "date": "12 Jun",
+        "title": "Revolutionizing Photography: Best Cameras in 2024",
+        "description": "Capture stunning photos with the best cameras of 2024. From compact models to professional-grade DSLRs, here's our guide...",
+        "image": "https://i.ibb.co.com/xf0H2pR/camera.jpg",
+        "link": "https://www.techradar.com/news/best-camera"
+    }
+]
